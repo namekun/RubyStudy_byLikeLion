@@ -52,7 +52,7 @@ In Ruby
 
 MVC란 **M**odel **V**iew **C**ontroller의 약자로 에플리케이션을 세가지의 역할로 구분한 개발 방법론이다. 아래의 그림처럼 사용자가 Controller를 조작하면 Controller는 Model을 통해서 데이터를 가져오고 그 정보를 바탕으로 시각적인 표현을 담당하는 View를 제어해서 사용자에게 전달하게 된다.  
 
-![1262](C:\Users\namkun\Desktop\1262.png)
+![1262](http://img1.daumcdn.net/thumb/R1920x0/?fname=http%3A%2F%2Fcfile21.uf.tistory.com%2Fimage%2F2103A3345656F86F0B1ACC)
 
 ## **Web 과 MVC**
 
